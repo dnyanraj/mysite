@@ -75,6 +75,14 @@ pre {
 	color: #5f5f5f;
 }
 
+.img-circle {
+    float: right;
+	margin-left: 20px;
+	margin-bottom: 10px;
+	border: 0px;
+    border-radius: 50%;
+}
+
 #header {
 	margin-left: 13em;
 	margin-top: 0.5em;
